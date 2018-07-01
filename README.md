@@ -1,10 +1,12 @@
-﻿Author: Felipe Antonow (felipeantonow7@gmail.com)
-		Please send a email if the project has been useful in any way :)
+﻿## Author:
+	Felipe Antonow (felipeantonow7@gmail.com)
+	Please send a email if the project has been useful in any way :)
 
-Goal:Study application to integrate with wikipedia
+## Goal:
+	Study application to integrate with wikipedia
 
 
-Config:
+## Config:
 	Path: /estrutura_base_dados.sql
 		Script base dados mysql
 
@@ -30,5 +32,5 @@ Config:
 		$mail->Username = '#Username#'; // Usuário do servidor SMTP (endereço de email)
 		$mail->Password = '#Password#'; // Senha do servidor SMTP (senha do email usado)
 		 
-	 
-	 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7CTB5ENWGHZAQ)
+## Donation
+	[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7CTB5ENWGHZAQ)
