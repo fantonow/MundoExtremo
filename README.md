@@ -33,5 +33,6 @@
 		$mail->Password = '#Password#'; // Senha do servidor SMTP (senha do email usado)
 		 
 ## Donation
+		If this project help you, you can give me a cup of coffee :)
 		
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=7CTB5ENWGHZAQ&lc=BR&item_name=MundoExtremo&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
