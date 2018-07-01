@@ -1,7 +1,7 @@
 ﻿## Author:
 	Felipe Antonow (felipeantonow7@gmail.com)
 	Please send a email if the project has been useful in any way :)
-
+```
 ## Goal:
 	Study application to integrate with wikipedia
 
@@ -33,4 +33,6 @@
 		$mail->Password = '#Password#'; // Senha do servidor SMTP (senha do email usado)
 		 
 ## Donation
+	If this project help you reduce time to develop, you can give me a cup of coffee :) 
+	
 	[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7CTB5ENWGHZAQ)
